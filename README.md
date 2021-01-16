@@ -1,2 +1,2 @@
-# CSchoolProjects
-My C school projects
+# CProjectsSchool
+My school C projects
